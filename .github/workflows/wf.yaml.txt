@@ -38,5 +38,5 @@ jobs:
       run: 'mvn package -DskipTests'
 
     - name: Test application 
-      run: 'mvn test'  #
+      run: 'mvn test'  
 
